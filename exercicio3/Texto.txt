@@ -1,3 +1,1 @@
-
-
 "Crie um codigo em C# que gere numero aleatorios, me de diferentes opções, atualmente meu codigo não esta gerando numeros tão aleatorios assim."
