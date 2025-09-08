@@ -1,0 +1,14 @@
+C:\Users\guilh\Desktop\DreDio\DesafioGFT-Andreza-C#\bin\Debug\net6.0\GftExercicio.exe
+C:\Users\guilh\Desktop\DreDio\DesafioGFT-Andreza-C#\bin\Debug\net6.0\GftExercicio.deps.json
+C:\Users\guilh\Desktop\DreDio\DesafioGFT-Andreza-C#\bin\Debug\net6.0\GftExercicio.runtimeconfig.json
+C:\Users\guilh\Desktop\DreDio\DesafioGFT-Andreza-C#\bin\Debug\net6.0\GftExercicio.dll
+C:\Users\guilh\Desktop\DreDio\DesafioGFT-Andreza-C#\bin\Debug\net6.0\GftExercicio.pdb
+C:\Users\guilh\Desktop\DreDio\DesafioGFT-Andreza-C#\obj\Debug\net6.0\GftExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\DreDio\DesafioGFT-Andreza-C#\obj\Debug\net6.0\GftExercicio.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\DreDio\DesafioGFT-Andreza-C#\obj\Debug\net6.0\GftExercicio.AssemblyInfo.cs
+C:\Users\guilh\Desktop\DreDio\DesafioGFT-Andreza-C#\obj\Debug\net6.0\GftExercicio.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\DreDio\DesafioGFT-Andreza-C#\obj\Debug\net6.0\GftExercicio.dll
+C:\Users\guilh\Desktop\DreDio\DesafioGFT-Andreza-C#\obj\Debug\net6.0\refint\GftExercicio.dll
+C:\Users\guilh\Desktop\DreDio\DesafioGFT-Andreza-C#\obj\Debug\net6.0\GftExercicio.pdb
+C:\Users\guilh\Desktop\DreDio\DesafioGFT-Andreza-C#\obj\Debug\net6.0\GftExercicio.genruntimeconfig.cache
+C:\Users\guilh\Desktop\DreDio\DesafioGFT-Andreza-C#\obj\Debug\net6.0\ref\GftExercicio.dll
