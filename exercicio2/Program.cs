@@ -1,4 +1,4 @@
-using ConsoleApp1;
+using exercicio2;
 
 int continuar = 1;
 List<Reserva> reservas = new List<Reserva>();
